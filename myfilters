@@ -1,17 +1,17 @@
-! ----------Truyển----------
+!----------truyen----------
 
 ! https://m.blogtruyen.vn
-m.blogtruyen.vn##.giới thiệu
-m.blogtruyen.vn##.manga-chi tiết > .catetgory
+m.blogtruyen.vn##.introduce
+m.blogtruyen.vn##.manga-detail > .catetgory
 m.blogtruyen.vn##.mt15.bt-bookmark
 m.blogtruyen.vn##footer
-m.blogtruyen.vn###fbComment > div
-|| blogtruyen.vn/donate.png$image
-|| i8.xem-truyen.com/768/768883/muatap23.jpg?v=1677127713$image
-|| i8.xem-truyen.com/768/768883/opmfanclub.jpg?v=1677127688$image
-|| blogtruyen.vn/donate.png$image
 m.blogtruyen.vn##.form-comment
-|| i8.xem-truyen.com/774/774407/0.jpg?v=1678244048$image
+m.blogtruyen.vn###fbComment > div
+||blogtruyen.vn/donate.png$image
+||i8.xem-truyen.com/768/768883/muatap23.jpg?v=1677127713$image
+||i8.xem-truyen.com/768/768883/opmfanclub.jpg?v=1677127688$image
+||blogtruyen.vn/donate.png$image
+||i8.xem-truyen.com/774/774407/0.jpg?v=1678244048$image
 
 ! https://cuutruyen.net
 cuutruyen.net##.text-justify.mb-4.text-gray-900
@@ -19,6 +19,14 @@ cuutruyen.net##.lg\:justify-start.items-stretch.justify-center.gap-2.md\:flex-ro
 cuutruyen.net##.overflow-hidden.relative.bg-opacity-70.bg-gray-200.rounded.lg\:mb-8.mb-6
 cuutruyen.net##.text-ads-top.items-center.flex-col.flex.text-sm > div.text-center.max-w-md
 cuutruyen.net##div.text-ads-bot.items-center.flex-col.flex.text-sm > .text-center.max-w-md > div
+
+! https://mangakatana.com
+mangakatana.com##.info
+mangakatana.com##.summary
+
+! https://mangaplus.shueisha.co.jp
+mangaplus.shueisha.co.jp##.TitleDetailHeader-module_info_1_7BN > div
+mangaplus.shueisha.co.jp##.TitleDetail-module_topside_1IIit
 
 ! https://truyenqqq.vn
 truyenqqq.vn##.txt
@@ -28,12 +36,4 @@ truyenqqq.vn##h3
 truyenqqq.vn##.readmore-js-expanded.readmore-js-section.detail-content.story-detail-info
 truyenqqq.vn##.readmore-js-toggle.readmore
 truyenqqq.vn##.alert-note.alert-info.alert
-
-! https://mangakatana.com
-mangakatana.com##.info
-mangakatana.com##.summary
-
-! https://mangaplus.shueisha.co.jp
-mangaplus.shueisha.co.jp##. TitleDetailHeader-module_info_1_7BN > div
-mangaplus.shueisha.co.jp##. Tiêu đềChi tiết-module_topside_1IIit
 
