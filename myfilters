@@ -2,10 +2,22 @@
 ! Title: Myfilters
 
 ! https://m.blogtruyen.vn
-
+m.blogtruyen.vn##.introduce
+m.blogtruyen.vn##.manga-detail > .catetgory
+m.blogtruyen.vn##.form-comment
+m.blogtruyen.vn###fbComment > div
+m.blogtruyen.vn##footer
+||blogtruyen.vn/donate.png$image
+||i8.xem-truyen.com/768/768883/muatap23.jpg?v=1677127713$image
+||i8.xem-truyen.com/768/768883/opmfanclub.jpg?v=1677127688$image
+||blogtruyen.vn/donate.png$image
+||i8.xem-truyen.com/774/774407/0.jpg?v=1678244048$image
 
 ! https://cuutruyen.net
-
+cuutruyen.net##.text-ads-top.items-center.flex-col.flex.text-sm > div.text-center.max-w-md
+cuutruyen.net##.text-sm.text-justify.mb-4.text-gray-600
+cuutruyen.net##.overflow-hidden.relative.bg-opacity-70.bg-gray-200.rounded.lg\:mb-8.mb-6
+cuutruyen.net##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500
 
 ! https://mangakatana.com
 mangakatana.com##.info
@@ -16,4 +28,11 @@ mangaplus.shueisha.co.jp##.TitleDetailHeader-module_info_1_7BN > div
 mangaplus.shueisha.co.jp##.TitleDetail-module_topside_1IIit
 
 ! https://truyenqqq.vn
+truyenqqq.vn##.readmore-js-expanded.readmore-js-section.detail-content.story-detail-info
+truyenqqq.vn##.readmore-js-toggle.readmore
+truyenqqq.vn##.alert-note.alert-info.alert
+truyenqqq.vn##.txt
+truyenqqq.vn##.list01
+truyenqqq.vn##.li04
+truyenqqq.vn##.story-detail-menu > .li03
 
