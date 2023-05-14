@@ -8,9 +8,8 @@ m.blogtruyen.vn##footer
 
 ! https://truyenqqq.vn
 truyenqqq.vn##.main_comment.form-comment
+truyenqqq.vn##div.mrt10:nth-of-type(2)
 
-truyenqqq.vn##.note-server
-truyenqqq.vn###ad_info_top > div
 truyenqqq.vn##div#ad_info:nth-of-type(4)
 truyenqqq.vn##.left-banner
 
