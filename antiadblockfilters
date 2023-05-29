@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: E+nYmI+2zf+Lcz43WcboMA
-! Version: 202305131240
+! Checksum: G1+2l/wspg3xVrtTypxNpw
+! Version: 202305291440
 ! Title: Adblock Warning Removal List
-! Last modified: 13 May 2023 12:40 UTC
+! Last modified: 29 May 2023 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
@@ -494,6 +494,8 @@ gamaniak.com#@#.adsbygoogle
 dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 !
+@@||jeux.meteocity.com^$generichide
+!
 ! *** antiadblockfilters:antiadblockfilters/antiadblock_german.txt ***
 ##.diysdk_webServices_banners1und1MainContent
 usgang.ch###rectangle-wrapper
@@ -585,7 +587,6 @@ mel.fm##.b-ad-space__placeholder
 irk.ru##.b-adblock-message
 d3.ru##.b-promo__placeholder
 cs-amba.ru##.banka
-hitline.org.ua##.bantop
 medical-club.net##.blocker-notice,.blocker-overlay
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
@@ -673,7 +674,7 @@ poznamka.ru##body > [id]:not([class])[style^="z-index"]
 in-trend.biz##body > [id][style^="z-index"]
 fightnews.info##body > blockquote
 torrnado.win##body > div > .a-overlay
-finget.ru,katalog-aktsii.ru,rp5.by,rp5.kz,rp5.ru,rp5.ua,sms24.info,sms24.me,vikings-warofclans.ru##body > div:not([id]):not([class])[style^="position"][style*="background"][style*="z-index"]
+finget.ru,katalog-aktsii.ru,rp5.by,rp5.kz,rp5.ru,sms24.info,sms24.me,vikings-warofclans.ru##body > div:not([id]):not([class])[style^="position"][style*="background"][style*="z-index"]
 just-for-fun.ru##body > div[class*="-container"][class*="-hide"]
 anticollector.biz.ua,cnc3018.ru,factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
