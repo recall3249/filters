@@ -7,12 +7,13 @@ m.blogtruyen.vn##.form-comment
 m.blogtruyen.vn##footer
 
 ! https://truyenqqq.vn
-truyenqqq.vn##.main_comment.form-comment
-truyenqqq.vn##div.mrt10:nth-of-type(2)
-truyenqqq.vn##.note-server
-truyenqqq.vn###ad_info_top > div
-truyenqqq.vn##div#ad_info:nth-of-type(4)
-truyenqqq.vn##.left-banner
+truyenqqne.com##.main_comment.form-comment
+truyenqqne.com##div.mrt10:nth-of-type(2)
+truyenqqne.com##.note-server
+truyenqqne.com###ad_info_top > div
+truyenqqne.com##div#ad_info:nth-of-type(4)
+truyenqqne.com##.left-banner
+truyenqqne.com###left-banner
 
 ! https://mangakatana.com
 mangakatana.com##.info
@@ -22,3 +23,5 @@ mangakatana.com##.summary
 mangaplus.shueisha.co.jp##.TitleDetailHeader-module_info_1_7BN > div
 mangaplus.shueisha.co.jp##.TitleDetail-module_topside_1IIit
 
+
+open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
