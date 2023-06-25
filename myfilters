@@ -7,11 +7,13 @@ m.blogtruyen.vn##.form-comment
 m.blogtruyen.vn##footer
 
 ! https://cuutruyen.net
+cuutruyen.net##.gap-1.flex-wrap.flex.mb-4
 ||s3.ap-southeast-1.amazonaws.com/adpia.vn/util/multi/20230510/640x160_15.05.jpg$image
 ||s3.ap-southeast-1.amazonaws.com/adpia.vn/util/multi/20230511/Copy_of__NWC_AFF_Buy2MLgetS1200x1200.png$image
 ||s3.ap-southeast-1.amazonaws.com/adpia.vn/util/multi/20220801/KV_1_thu_7_logo.png$image
 
 ! https://truyenqqq.vn
+truyenqqq.vn##div#ad_info:nth-of-type(3)
 truyenqqne.com##.main_comment.form-comment
 truyenqqne.com##div.mrt10:nth-of-type(2)
 truyenqqne.com##.note-server
@@ -19,6 +21,8 @@ truyenqqne.com###ad_info_top > div
 truyenqqne.com##div#ad_info:nth-of-type(4)
 truyenqqne.com##.left-banner
 truyenqqne.com###left-banner
+truyenqqq.vn###left-banner
+truyenqqq.vn##div#ad_info:nth-of-type(4)
 
 ! https://mangakatana.com
 mangakatana.com##.info
